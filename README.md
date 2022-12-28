@@ -1,25 +1,24 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the Application made to learn Ruby.
+I have made this following the guide on the official documents for Rails.
 
-Things you may want to cover:
+## Things included:
 
-* Ruby version
+* CRUD model
 
-* System dependencies
+* DRY development
 
-* Configuration
+* HTTP Authentification
 
-* Database creation
+* Dyynamic output
 
 * Database initialization
+
+## Things to consider
 
 * How to run the test suite
 
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* ...
-# ruby-dynamic-blog
